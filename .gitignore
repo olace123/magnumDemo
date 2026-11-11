@@ -14,7 +14,7 @@
 *.pch
 
 # Compiled Dynamic libraries
-*.so
+*.so 
 *.dylib
 *.dll
 
@@ -32,7 +32,7 @@
 *.exe
 *.out
 *.app
-bin/
+bin/ 
 build/
 ### CUDA ###
 *.i

@@ -10,7 +10,7 @@ A high-performance, hybrid **C++17 / CUDA / Python** numerical engine for **3D V
 
 > **Note on Repository Scope (Portfolio & Architecture Showcase):**  
 > This repository showcases the software architecture, custom RAII memory management (`Buffer<T>`, `Vector`), Compressed Sparse Row (`MatrixCSR`) topological assembly, public C++ API headers (`PhysicsEngine`, `Solver`), Pybind11 zero-copy bridges, and Python simulation workflows developed for my M.Sc. thesis in Electrical Engineering at **IPN - ESIME Zacatenco**.  
-> To protect core academic IP prior to final journal publication, the internal implementation files `src/physicsEngine.cpp` and `src/solvers_gpu.cu` are omitted from the public tree; however, the pre-compiled Linux x86_64/CUDA shared library (`fem_simulator.cpython-312-x86_64-linux-gnu.so`) is provided so all Python benchmarks can be executed directly.
+> To protect core academic IP prior to final journal publication, the internal implementation files `src/physicsEngine.cpp` and `src/solvers_gpu.cu` are omitted from the public tree; however, the pre-compiled Linux x86_64/CUDA shared library (`fem_simulator.cpython-312-x86_64-linux-gnu.so`) is provided so all Python benchmarks can be executed directly. **Download at:** https://drive.google.com/drive/folders/11zKy1S-gY9a1fmEDIq8PqP0LdrTx9REb?usp=sharing
 
 ---
 
